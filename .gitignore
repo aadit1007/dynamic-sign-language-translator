@@ -7,8 +7,9 @@ __pycache__/
 .venv/
 
 # ML
-ml/data/
-ml/models/
+/ml/data/raw/*
+/ml/data/processed/*
+/ml/models/*
 *.pth
 *.pt
 
