@@ -25,11 +25,17 @@ node_modules/
 .next/
 out/
 
+# Local environment files
+.env.local
+.env.*.local
+
+# TypeScript build cache
+*.tsbuildinfo
+
 # IDE
 .vscode/
 
 # OS
 .DS_Store
 Thumbs.db
-webcam_hand_crop.jpg 
 webcam_hand_crop.jpg 
